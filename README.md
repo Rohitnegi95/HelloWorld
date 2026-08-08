@@ -1,3 +1,2 @@
-# HelloWorld
-This repository is for practicing the GitHub Flow.
+# EDA(Exploratory Data Analysis)
 In this repository i have done Data Cleaning.
